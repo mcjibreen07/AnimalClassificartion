@@ -66,6 +66,9 @@ Run the script with:
 ```bash
 python animal_identifier.py
 ```
+### Preview 
+![Screenshot from 2024-11-10 04-55-52](https://github.com/user-attachments/assets/bc4d37d2-c313-43d4-829e-b1c18975a009)
+
 
 
 ### Credit:
